@@ -5,6 +5,5 @@ We provide an effectiveness and performance evaluation on several widely-used be
 
 
 
-# This repository provides an implementation for the GRSSLFS method (Graph Regularized Self-Representation and Sparse Subspace Learning) as described in the paper:
-
+This repository provides an implementation for the GRSSLFS method (Graph Regularized Self-Representation and Sparse Subspace Learning) as described in the paper:
 Prayag Tiwari, Farid Saberi-Movahed, Saeed Karami, Farshad Saberi-Movahed, Jens Lehmann, Sahar Vahdati, A Self-Representation Learning Method for Unsupervised Feature Selection using Feature Space Basis, Under Review, 2024.
