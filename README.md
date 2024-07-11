@@ -6,4 +6,4 @@ This repository provides an implementation for the GRSSLFS method (Graph Regular
 
 Prayag Tiwari, Farid Saberi-Movahed, Saeed Karami, Farshad Saberi-Movahed, Jens Lehmann, Sahar Vahdati, A Self-Representation Learning Method for Unsupervised Feature Selection using Feature Space Basis, Under Review, 2024.
 
-# For any inquiries, please feel free to reach out to us via email: fdsaberi@gmail.com
+For any inquiries, please feel free to reach out to us via email: fdsaberi@gmail.com
